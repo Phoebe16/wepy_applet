@@ -5,5 +5,9 @@
     <view>Hello</view>
 </template>
 <script>
+    import wepy from 'wepy';
 
+    export default class Posts extends wepy.page {
+        
+    }
 </script>
